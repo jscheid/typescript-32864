@@ -1,0 +1,12 @@
+{
+  "name": "typescript-32864",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3",
+    "xstate": "^4.9.1"
+  },
+  "scripts": {
+    "test": "tsserver < requests.json"
+  }
+}

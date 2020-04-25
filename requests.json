@@ -1,0 +1,2 @@
+{"command":"open","seq":"1","arguments":{"file":"./input.ts"}}
+{"command":"signatureHelp","seq":"2","arguments":{"file":"./input.ts","line":3,"offset":1}}
